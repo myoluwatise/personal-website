@@ -52,7 +52,7 @@ personal-website
 ## 👤 Author
 **FrontendFuel** – Self-taught Frontend Developer | Still learning and building projects 💻
 
-**GitHub**: [https://github.com/O-Babasola](https://github.com/O-Babasola)
+**GitHub**:[ https://github.com/O-frontendfuel](https://github.com/O-frontendfuel)
 
 These are linked to some of the projects that I did: 
 - [https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
